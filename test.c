@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main();{
-    //dadfdfsd
+    //³ª´Â¾ß ±è½Â¿¬
 }
 
